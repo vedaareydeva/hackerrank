@@ -8,3 +8,6 @@ Input 2 ints and floats and print their sum and difference.
 
 ## 3. Functions in C
 Create a function to find the max among 4 numbers.
+
+## 4. Pointers in C
+Use 2 pointers in a function and print their sum and difference. 
