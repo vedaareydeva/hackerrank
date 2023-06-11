@@ -14,3 +14,6 @@ Use 2 pointers in a function and print their sum and difference.
 
 ## 5. Conditional Statements in C
 Replace numbers from 1-9 with their lowercase English words and greater than 9 with "Greater than 9".
+
+## 6. Sum of Digits of a Five Digit Number
+Add and print the sum of all the digits of an inputted 5 digit number.
