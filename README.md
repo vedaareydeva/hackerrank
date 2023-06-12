@@ -20,3 +20,6 @@ Add and print the sum of all the digits of an inputted 5 digit number.
 
 ## 7. For Loop in C
 Run a loop and write the inputted words' english word and if its odd or even.
+
+## 8. Bitwise Operators
+Input two numbers and perform bitwise AND, OR and XOR operations and print max values from each.
