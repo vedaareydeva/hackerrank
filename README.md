@@ -17,3 +17,6 @@ Replace numbers from 1-9 with their lowercase English words and greater than 9 w
 
 ## 6. Sum of Digits of a Five Digit Number
 Add and print the sum of all the digits of an inputted 5 digit number.
+
+## 7. For Loop in C
+Run a loop and write the inputted words' english word and if its odd or even.
