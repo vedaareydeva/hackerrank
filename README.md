@@ -32,3 +32,6 @@ Write a function for calculating and printing the sum of alternate elements of a
 
 ## 11. Boxes through a Tunnel
 Find the volume of a box whose length, breadth and width are stored in a structure.
+
+## 12. Array Reversal
+Reverse and print an inputted array.
