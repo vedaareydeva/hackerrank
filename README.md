@@ -26,3 +26,6 @@ Input two numbers and perform bitwise AND, OR and XOR operations and print max v
 
 ## 9. Calculate the Nth term
 Input n and 3 numbers and find out S(n) using recursion.
+
+## 10. Students Marks Sum
+Write a function for calculating and printing the sum of alternate elements of an array.
