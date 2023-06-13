@@ -23,3 +23,6 @@ Run a loop and write the inputted words' english word and if its odd or even.
 
 ## 8. Bitwise Operators
 Input two numbers and perform bitwise AND, OR and XOR operations and print max values from each.
+
+## 9. Calculate the Nth term
+Input n and 3 numbers and find out S(n) using recursion.
