@@ -38,3 +38,5 @@ Reverse and print an inputted array.
 
 ## 13. Printing Tokens
 To print each word of an inputted sentence in a new line.
+
+## 14. Printing Pattern using Loops
