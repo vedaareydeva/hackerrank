@@ -35,3 +35,6 @@ Find the volume of a box whose length, breadth and width are stored in a structu
 
 ## 12. Array Reversal
 Reverse and print an inputted array.
+
+## 13. Printing Tokens
+To print each word of an inputted sentence in a new line.
