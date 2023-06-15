@@ -44,3 +44,6 @@ To dynamically allocate memory for inputted integers and print their sum.
 
 ## 15. Printing Pattern Using Loops
 Printing a specific pattern using loops.
+
+## 16. Digit Frequency
+Find out how many times a certain digit appears in an inputted string.
