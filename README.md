@@ -50,3 +50,6 @@ Find out how many times a certain digit appears in an inputted string.
 
 ## 17. Small Triangles, Large Triangles
 From 3 inputted sides of triangles, find area and sort them in an increasing order.
+
+## 18. Dynamic Array in C
+Solve scenario based problem using dynamic arrays.
