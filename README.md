@@ -53,3 +53,6 @@ From 3 inputted sides of triangles, find area and sort them in an increasing ord
 
 ## 18. Dynamic Array in C
 Solve scenario based problem using dynamic arrays.
+
+## 19. Variadic Functions in C
+Exploring Variadic functions my finding out sum, min and max of variable number of arguments.
