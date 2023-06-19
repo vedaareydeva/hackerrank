@@ -56,3 +56,6 @@ Solve scenario based problem using dynamic arrays.
 
 ## 19. Variadic Functions in C
 Exploring Variadic functions by finding out sum, min and max of variable number of arguments.
+
+## 20. Querying the Document
+Disintegrating an input para to lines, sentences and word and produces outputs as a result of certain queries.
