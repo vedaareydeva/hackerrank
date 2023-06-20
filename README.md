@@ -59,3 +59,6 @@ Exploring Variadic functions by finding out sum, min and max of variable number 
 
 ## 20. Querying the Document
 Disintegrating an input para to lines, sentences and word and produces outputs as a result of certain queries.
+
+## 21. Structuring the Document
+Application of structs to disintegrate a document into sentences, words and lines and print the same.
