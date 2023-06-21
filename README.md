@@ -62,3 +62,6 @@ Disintegrating an input para to lines, sentences and word and produces outputs a
 
 ## 21. Structuring the Document
 Application of structs to disintegrate a document into sentences, words and lines and print the same.
+
+## 22. Sorting Array of Strings
+Sort an array of strings in lexicographic order.
