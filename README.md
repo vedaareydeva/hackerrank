@@ -65,3 +65,6 @@ Application of structs to disintegrate a document into sentences, words and line
 
 ## 22. Sorting Array of Strings
 Sort an array of strings in lexicographic order.
+
+## 23. Permutations of Strings
+Identify and print the different possible arrangements of the digits of an inputted string.
