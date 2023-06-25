@@ -68,3 +68,6 @@ Sort an array of strings in lexicographic order.
 
 ## 23. Permutations of Strings
 Identify and print the different possible arrangements of the digits of an inputted string.
+
+## 24. Post Transition
+Manage Post Transitions in a country.
